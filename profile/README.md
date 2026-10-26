@@ -1,5 +1,3 @@
-Read the destination before the first run. Restore one file to an empty folder. There is no email reset if the passphrase is wrong. Say the destination name out loud before you save the job. A wrong bucket mixes your files into a place you did not mean to use.
-
 # Duplicati - Scheduled Backups of Your Own Data
 
 Duplicati runs a backup job on a schedule for folders you choose, to a disk or a cloud account that belongs to you. The job is a copy of your data, encrypted with a passphrase you set. It does not log into accounts you were not given, and nobody else can open the backup if you lose that passphrase.
